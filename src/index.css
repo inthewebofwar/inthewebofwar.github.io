@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: rgb(245, 245, 219);
+  margin: 0px;
+}
+
+.MuiTypography-root {
+  color: rgb(245, 245, 219) !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+}
